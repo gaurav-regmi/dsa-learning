@@ -1,11 +1,18 @@
 package easyquestions.array;
 
+import java.util.List;
+
 public class PrintArray {
 
     public static void show(int[] arr) {
         for (int num : arr) {
             System.out.print(num + " ");
         }
+        System.out.println();
+    }
+
+    public static void show(List<Integer> arrList) {
+        System.out.print(arrList.toString());
         System.out.println();
     }
 
