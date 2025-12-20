@@ -1,6 +1,6 @@
 package easyquestions.array.numberOfGoodPairs;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 // https://leetcode.com/problems/number-of-good-pairs/description/
 public class Solution {

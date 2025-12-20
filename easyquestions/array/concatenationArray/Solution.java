@@ -1,6 +1,6 @@
 package easyquestions.array.concatenationArray;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 public class Solution {
     public static void main(String[] args) {

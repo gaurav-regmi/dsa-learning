@@ -1,6 +1,6 @@
 package easyquestions.array.smallerThanCurrentNumber;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 // https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
 public class Solution {

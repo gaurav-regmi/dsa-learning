@@ -1,6 +1,6 @@
 package easyquestions.array.flippingImage;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 // https://leetcode.com/problems/flipping-an-image/description/
 public class Solution {

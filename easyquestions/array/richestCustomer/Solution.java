@@ -1,6 +1,6 @@
 package easyquestions.array.richestCustomer;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 // https://leetcode.com/problems/richest-customer-wealth/description/
 public class Solution {

@@ -1,8 +1,7 @@
 package easyquestions.array.addToArrayFormInteger;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 // https://leetcode.com/problems/add-to-array-form-of-integer/description/

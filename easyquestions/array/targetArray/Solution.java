@@ -1,6 +1,6 @@
 package easyquestions.array.targetArray;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 //https://leetcode.com/problems/create-target-array-in-the-given-order/description/
 public class Solution {

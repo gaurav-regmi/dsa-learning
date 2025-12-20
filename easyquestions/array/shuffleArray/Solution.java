@@ -1,6 +1,6 @@
 package easyquestions.array.shuffleArray;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 // https://leetcode.com/problems/shuffle-the-array/description/
 public class Solution {

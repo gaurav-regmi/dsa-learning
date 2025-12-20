@@ -1,6 +1,6 @@
 package easyquestions.array.luckyNumbers;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 import java.util.ArrayList;
 import java.util.List;
