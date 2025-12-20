@@ -1,6 +1,6 @@
 package easyquestions.array.sumToZero_imp;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 // https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/
 public class Solution {

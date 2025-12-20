@@ -1,6 +1,6 @@
 package easyquestions.array.runningSumOf1DArr;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 // https://leetcode.com/problems/running-sum-of-1d-array/description/
 public class Solution {

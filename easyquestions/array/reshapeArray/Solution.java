@@ -1,7 +1,7 @@
 package easyquestions.array.reshapeArray;
 
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 // https://leetcode.com/problems/reshape-the-matrix/description/
 public class Solution {

@@ -1,6 +1,6 @@
 package easyquestions.array.buildArrayFromPermutation;
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 public class Solution {
 

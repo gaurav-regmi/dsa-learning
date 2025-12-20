@@ -1,7 +1,7 @@
 package easyquestions.array.transposeMatrix;
 
 
-import easyquestions.array.PrintArray;
+import easyquestions.PrintArray;
 
 // https://leetcode.com/problems/transpose-matrix/description/
 public class Solution {

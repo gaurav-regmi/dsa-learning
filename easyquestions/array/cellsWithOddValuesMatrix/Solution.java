@@ -1,7 +1,5 @@
 package easyquestions.array.cellsWithOddValuesMatrix;
 
-import easyquestions.array.PrintArray;
-
 // https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/
 public class Solution {
 
